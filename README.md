@@ -1,2 +1,2 @@
 # Vector-drawings
-These illustrations are used for my web applications and some of them are created  for fun
+These illustrations are created using vector drawing softwares and are used for my web applications & some of them are created  for fun
